@@ -12,10 +12,16 @@ end
 def monopoly_with_second_tier
   
   new_hash = {
+<<<<<<< HEAD
    :railroads => {
      :pieces => 4
  },
    
+=======
+   :railroads => {}
+}   
+   :pieces 
+>>>>>>> b9952dc000f030e49269ca95d8f899088c7e3b82
 }
 end
   
